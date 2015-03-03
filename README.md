@@ -1,2 +1,2 @@
 # sortPix
-Perl script that will autonatically sort, rename and develop photos
+Just testing at this point.
